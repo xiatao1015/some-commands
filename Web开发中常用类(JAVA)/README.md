@@ -1,5 +1,6 @@
 # Web开发中常用的一些类（JAVA）
 
+```sh
 ├─Web开发中常用类(JAVA)
 │      BeanCopyUtils.java 	使用springboot中的自带copy方法，将某个对象中的属性复制到另一个对象中。
 │      CommonResult.java	前后端分离，通用返回给前端的Json格式
@@ -11,3 +12,5 @@
 │      RoleEnum.java			 一般角色的枚举
 │      StatusCodeEnum.java 常见错误的状态码枚举
 │      UserUtils.java				spring security中返回实现了UserDetails的那个实体类
+```
+
